@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Raj.</h1>
 <h3 align="center">A passionate Programmer and Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj&label=Profile%20views&color=0e75b6&style=flat" alt="raj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raj-101&label=Profile%20views&color=0e75b6&style=flat" alt="Raj" /> </p>
 
 - 🔭 I’m currently working on **Artificial Intelligence.**
 
@@ -71,7 +71,8 @@
 ## 📈 Raj's Profile Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Raj-101&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)&emsp; &emsp; &emsp; &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=Raj-101&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-101&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Raj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raj-101&theme=react-dark)](https://github.com/Raj-101/github-readme-activity-graph)
+![Raj's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raj-101&theme=react-dark)
+![](https://github.com/Raj-101/github-readme-activity-graph)
 
 ### ✍️ Everyday Dev Quotes:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
