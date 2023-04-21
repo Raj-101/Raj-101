@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj-101&theme=algolia&show_icons=true)
+
 <!--
 **Raj-101/Raj-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
