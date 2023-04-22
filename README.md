@@ -41,7 +41,7 @@
 
       - Backend Development- ![Node.JS](https://img.shields.io/badge/Node.JS-6DA55F?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.JS-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 
-      - Database Management Systems- ![MySQL](https://img.shields.io/badge/MySQL-%230C55A5.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+      - Database Management Systems- ![MySQL](https://img.shields.io/badge/MySQL-%230C55A5.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-white.svg?style=flat&logo=firebase&logoColor=yellow)
 
 7. Blockchain Development- ![Solidity](https://img.shields.io/badge/Solidity-grey?style=flat&logo=solidity&logoColor=black) ![Web3.JS](https://img.shields.io/badge/Web3.JS-blue?style=flat&logo=web3.js&logoColor=orange) ![Metamask](https://img.shields.io/badge/Metamask-orange?style=flat&logo=metamask&logoColor=white) ![Ganache](https://img.shields.io/badge/Ganache-brown?style=flat&logo=ganache&logoColor=brown)
 
@@ -55,11 +55,13 @@
 
 11. Version Control- ![Git](https://img.shields.io/badge/Git-%23000000.svg?style=flat&logo=git&logoColor=orange) ![GitHub](https://img.shields.io/badge/GitHub-purple.svg?style=flat&logo=github&logoColor=white) 
 
-12. Team Collaboration- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-%23000000.svg?style=flat&logo=slack&logoColor=white)
+12. Cloud Hosting Platforms- ![Heroku](https://img.shields.io/badge/Heroku-white.svg?style=flat&logo=heroku&logoColor=purple) ![Vercel](https://img.shields.io/badge/Vercel-white.svg?style=flat&logo=vercel&logoColor=black)
 
-13. Scripting- ![Bash](https://img.shields.io/badge/Bash-%2344A833.svg?style=flat&logo=gnubash&logoColor=black) ![Powershell](https://img.shields.io/badge/Powershell-%233F4F75.svg?style=flat&logo=powershell&logoColor=darkblue)
+13. Team Collaboration- ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-%23000000.svg?style=flat&logo=slack&logoColor=back)
 
-14. Web-Browsers- ![Firefox](https://img.shields.io/badge/Firefox-blue.svg?style=flat&logo=firefox&logoColor=orange) ![Chrome](https://img.shields.io/badge/Chrome-darkblue.svg?style=flat&logo=google-chrome&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-purple.svg?style=flat&logo=brave&logoColor=white)
+14. Scripting- ![Bash](https://img.shields.io/badge/Bash-%2344A833.svg?style=flat&logo=gnubash&logoColor=black) ![Powershell](https://img.shields.io/badge/Powershell-%233F4F75.svg?style=flat&logo=powershell&logoColor=darkblue)
+
+15. Web-Browsers- ![Firefox](https://img.shields.io/badge/Firefox-blue.svg?style=flat&logo=firefox&logoColor=orange) ![Chrome](https://img.shields.io/badge/Chrome-darkblue.svg?style=flat&logo=google-chrome&logoColor=white) ![Brave](https://img.shields.io/badge/Brave-purple.svg?style=flat&logo=brave&logoColor=white)
 
 
 <!----------------------------------------------------------------------- Trophies Below  ------------------------------------------------------------------->
