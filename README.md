@@ -67,17 +67,28 @@
 <!----------------------------------------------------------------------- Trophies Below  ------------------------------------------------------------------->
 
 
+
 # 🏆 GitHub Trophies:
+<div align='center'>
+
 ![](https://github-profile-trophy.vercel.app/?username=Raj-101&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+</div>
 
 ## 📈 Raj's Profile Stats:
-![](https://github-readme-stats.vercel.app/api?username=Raj-101&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)&emsp; &emsp; &emsp; &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=Raj-101&theme=algolia&hide_border=false)<br/>
+<div align='center'>
+
+![](https://github-readme-stats.vercel.app/api?username=Raj-101&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)&emsp; &emsp; &emsp; &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=Raj-101&theme=algolia&hide_border=false)
+<!--<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-101&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Raj's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raj-101&theme=react-dark)
 ![](https://github.com/Raj-101/github-readme-activity-graph)
+</div>
 
 ### ✍️ Everyday Dev Quotes:
+<div align='center'>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+</div>
 
 ---
 <!-- [![](https://visitcount.itsvg.in/api?id=X&icon=1&color=1)](https://visitcount.itsvg.in) -->
@@ -91,6 +102,8 @@
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj&theme=algolia" alt="raj" />
 
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raj-101&theme=algolia&show_icons=true) -->
+
+</div>
 
 <!--
 **Raj-101/Raj-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
