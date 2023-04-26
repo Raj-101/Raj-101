@@ -5,6 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raj-101&label=Profile%20views&color=0e75b6&style=flat" alt="Raj" /> </p>
 
+<div>
+
+<br/>
+
+<div>
+
 - 🔭 I’m currently working on **Artificial Intelligence.**
 
 - 🌱 I’m currently learning **Artificial Intelligence.**
@@ -16,6 +22,16 @@
 - 💬 Ask me about **Artificial Intelligence and Python**
 
 - ⚡ Fun fact **AI will eventually be turning in our filicide.**
+
+</div>
+
+<br/><br/>
+
+<div align="center"><img src="./Developer GIF.gif"></div>
+
+</div>
+
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -81,10 +97,12 @@
 <!--<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-101&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Raj's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raj-101&theme=react-dark)
+<br/>
 ![](https://github.com/Raj-101/github-readme-activity-graph)
 </div>
 
 ### ✍️ Everyday Dev Quotes:
+<br/>
 <div align='center'>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
