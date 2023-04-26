@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-
+<div align="center"><img src="./Banner.png" width="80%"></div>
 <h1 align="center">Hi 👋, I'm Raj.</h1>
 <h3 align="center">A passionate Programmer and Developer.</h3>
 
