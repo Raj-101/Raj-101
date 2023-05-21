@@ -19,7 +19,7 @@
 
 - 🤝 I’m looking for help with **Artificial Intelligence.**
 
-- 💬 Ask me about **Artificial Intelligence and Python**
+- 💬 Ask me about **Artificial Intelligence and Python.**
 
 - ⚡ Fun fact **AI will eventually be turning in our filicide.**
 
