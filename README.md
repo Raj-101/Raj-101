@@ -1,5 +1,8 @@
 <!-- ### Hi there 👋 -->
 <div align="center"><img src="./Banner.png" width="80%"></div>
+<!-- <div> align="center"> -->
+<!-- ![Image](https://github.com/Raj-101/Raj-101/blob/4a2169e232751ace5939bcfdd83eb14863e91363/Banner.png) -->
+<!-- </div> -->
 <h1 align="center">Hi 👋, I'm Raj.</h1>
 <h3 align="center">A passionate Programmer and Developer.</h3>
 
@@ -28,6 +31,8 @@
 <br/><br/>
 
 <div align="center"><img src="./Developer GIF.gif"></div>
+
+<!-- ![GIF](https://github.com/Raj-101/Raj-101/blob/4a2169e232751ace5939bcfdd83eb14863e91363/Developer%20GIF.gif) -->
 
 </div>
 
