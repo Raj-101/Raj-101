@@ -101,7 +101,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Raj-101&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)&emsp; &emsp; &emsp; &nbsp;![](https://github-readme-streak-stats.herokuapp.com/?user=Raj-101&theme=algolia&hide_border=false)
 <!--<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Raj-101&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Raj's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raj-101&theme=react-dark)
+<!--![Raj's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Raj-101&theme=react-dark)-->
+[![Raj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Raj-101&theme=react-dark)](https://github.com/Raj-101/github-readme-activity-graph)
 <br/>
 ![](https://github.com/Raj-101/github-readme-activity-graph)
 </div>
