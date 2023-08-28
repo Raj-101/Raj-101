@@ -49,10 +49,11 @@
 
 1. Programming Languages-
 ![Python](https://img.shields.io/badge/Python-%2344A833.svg?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-blue.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-blue.svg?style=for-the-badge&logo=&logoColor=white)
+![C#](https://img.shields.io/badge/C_Sharp-green.svg?style=for-the-badge&logo=c+sharp&logoColor=purple)
 ![Rust](https://img.shields.io/badge/Rust-orange.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![GoLang](https://img.shields.io/badge/GoLang-white.svg?style=for-the-badge&logo=go&logoColor=blue)
 
@@ -106,7 +107,7 @@
       ![Next.JS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=next.js&logoColor=white) 
       ![Chakra-UI](https://img.shields.io/badge/Chakra_UI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) 
       ![Bootstrap-CSS](https://img.shields.io/badge/Bootstrap_CSS-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-      ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
+      ![Ant-Design](https://img.shields.io/badge/-Ant_Design-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
       ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-%2300C4CC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
       ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
       ![Three.JS](https://img.shields.io/badge/Three.JS-black?style=for-the-badge&logo=three.js&logoColor=white) 
@@ -133,7 +134,9 @@
 
 12. App Development-
       - Desktop- ![Electron.JS](https://img.shields.io/badge/Electron.JS-191970?style=for-the-badge&logo=Electron&logoColor=white)
-      - Android- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+      - Android-
+       ![React Native](https://img.shields.io/badge/React_Native-blue.svg?style=for-the-badge&logo=React&logoColor=white)
+       ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
 13. Designing- 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
